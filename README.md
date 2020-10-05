@@ -4,7 +4,7 @@ Simple website using:
 * HTML
 * CSS.
 
-LIVE demo: [here]()
+LIVE demo: [here](https://henks20.github.io/sample-portfolio/)
 
 ## Installation
 - Clone the repo in your terminal by clicking the green clone or download button at the top right and copy in the URL
